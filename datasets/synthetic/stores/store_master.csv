@@ -1,0 +1,101 @@
+StoreID,StoreName,City,State,Region,Country,StoreType,OpenDate,ManagerID,LastModifiedDate,IsActive
+STR0001,Bhubaneswar Store 1,Bhubaneswar,Odisha,East,India,Online Fulfillment,2020-08-07,EMP0001,2026-07-05 19:08:24.431098,True
+STR0002,Hyderabad Store 2,Hyderabad,Telangana,South,India,Mall,2016-05-18,EMP0002,2026-07-05 19:08:24.431109,True
+STR0003,Mumbai Store 3,Mumbai,Maharashtra,West,India,Mall,2022-12-27,EMP0003,2026-07-05 19:08:24.431114,True
+STR0004,Mumbai Store 4,Mumbai,Maharashtra,West,India,Online Fulfillment,2020-10-18,EMP0004,2026-07-05 19:08:24.431118,True
+STR0005,Chandigarh Store 5,Chandigarh,Punjab,North,India,High Street,2020-07-25,EMP0005,2026-07-05 19:08:24.431122,True
+STR0006,Guwahati Store 6,Guwahati,Assam,East,India,Online Fulfillment,2015-09-26,EMP0006,2026-07-05 19:08:24.431126,True
+STR0007,Hyderabad Store 7,Hyderabad,Telangana,South,India,Warehouse,2017-03-17,EMP0007,2026-07-05 19:08:24.431131,True
+STR0008,Lucknow Store 8,Lucknow,Uttar Pradesh,North,India,Warehouse,2018-08-10,EMP0008,2026-07-05 19:08:24.431134,True
+STR0009,Chennai Store 9,Chennai,Tamil Nadu,South,India,Mall,2022-03-14,EMP0009,2026-07-05 19:08:24.431138,True
+STR0010,Chennai Store 10,Chennai,Tamil Nadu,South,India,Warehouse,2020-07-19,EMP0010,2026-07-05 19:08:24.431141,True
+STR0011,Pune Store 11,Pune,Maharashtra,West,India,High Street,2016-09-17,EMP0011,2026-07-05 19:08:24.431145,True
+STR0012,Kolkata Store 12,Kolkata,West Bengal,East,India,High Street,2019-09-02,EMP0012,2026-07-05 19:08:24.431149,True
+STR0013,Mumbai Store 13,Mumbai,Maharashtra,West,India,Warehouse,2018-03-15,EMP0013,2026-07-05 19:08:24.431157,True
+STR0014,Pune Store 14,Pune,Maharashtra,West,India,Mall,2020-10-22,EMP0014,2026-07-05 19:08:24.431161,True
+STR0015,Bhubaneswar Store 15,Bhubaneswar,Odisha,East,India,Warehouse,2021-07-12,EMP0015,2026-07-05 19:08:24.431164,True
+STR0016,Kochi Store 16,Kochi,Kerala,South,India,Warehouse,2022-01-07,EMP0016,2026-07-05 19:08:24.431168,True
+STR0017,Surat Store 17,Surat,Gujarat,West,India,High Street,2024-09-17,EMP0017,2026-07-05 19:08:24.431171,True
+STR0018,Hyderabad Store 18,Hyderabad,Telangana,South,India,Mall,2017-05-09,EMP0018,2026-07-05 19:08:24.431175,True
+STR0019,Bengaluru Store 19,Bengaluru,Karnataka,South,India,High Street,2020-09-16,EMP0019,2026-07-05 19:08:24.431179,True
+STR0020,Pune Store 20,Pune,Maharashtra,West,India,Online Fulfillment,2024-12-09,EMP0020,2026-07-05 19:08:24.431182,True
+STR0021,Kochi Store 21,Kochi,Kerala,South,India,Warehouse,2015-11-23,EMP0021,2026-07-05 19:08:24.431186,True
+STR0022,Kochi Store 22,Kochi,Kerala,South,India,Online Fulfillment,2021-03-17,EMP0022,2026-07-05 19:08:24.431189,True
+STR0023,Ahmedabad Store 23,Ahmedabad,Gujarat,West,India,Warehouse,2023-10-12,EMP0023,2026-07-05 19:08:24.431195,True
+STR0024,Bhubaneswar Store 24,Bhubaneswar,Odisha,East,India,Online Fulfillment,2017-02-06,EMP0024,2026-07-05 19:08:24.431199,True
+STR0025,Hyderabad Store 25,Hyderabad,Telangana,South,India,Online Fulfillment,2017-12-07,EMP0025,2026-07-05 19:08:24.431203,True
+STR0026,Guwahati Store 26,Guwahati,Assam,East,India,High Street,2024-07-22,EMP0026,2026-07-05 19:08:24.431207,True
+STR0027,Lucknow Store 27,Lucknow,Uttar Pradesh,North,India,Online Fulfillment,2020-01-17,EMP0027,2026-07-05 19:08:24.431210,True
+STR0028,Delhi Store 28,Delhi,Delhi,North,India,Warehouse,2018-09-16,EMP0028,2026-07-05 19:08:24.431214,True
+STR0029,Chandigarh Store 29,Chandigarh,Punjab,North,India,Mall,2015-10-23,EMP0029,2026-07-05 19:08:24.431217,True
+STR0030,Kochi Store 30,Kochi,Kerala,South,India,High Street,2019-10-02,EMP0030,2026-07-05 19:08:24.431221,True
+STR0031,Kochi Store 31,Kochi,Kerala,South,India,Mall,2019-08-28,EMP0031,2026-07-05 19:08:24.431224,True
+STR0032,Guwahati Store 32,Guwahati,Assam,East,India,Online Fulfillment,2020-02-10,EMP0032,2026-07-05 19:08:24.431256,True
+STR0033,Chandigarh Store 33,Chandigarh,Punjab,North,India,Warehouse,2021-12-03,EMP0033,2026-07-05 19:08:24.431262,True
+STR0034,Delhi Store 34,Delhi,Delhi,North,India,Mall,2021-12-27,EMP0034,2026-07-05 19:08:24.431266,True
+STR0035,Pune Store 35,Pune,Maharashtra,West,India,Mall,2023-03-12,EMP0035,2026-07-05 19:08:24.431270,True
+STR0036,Ahmedabad Store 36,Ahmedabad,Gujarat,West,India,Mall,2016-03-14,EMP0036,2026-07-05 19:08:24.431273,True
+STR0037,Kolkata Store 37,Kolkata,West Bengal,East,India,Mall,2016-02-01,EMP0037,2026-07-05 19:08:24.431276,True
+STR0038,Bengaluru Store 38,Bengaluru,Karnataka,South,India,Mall,2024-01-05,EMP0038,2026-07-05 19:08:24.431280,True
+STR0039,Delhi Store 39,Delhi,Delhi,North,India,Mall,2019-02-17,EMP0039,2026-07-05 19:08:24.431284,True
+STR0040,Surat Store 40,Surat,Gujarat,West,India,Mall,2022-12-04,EMP0040,2026-07-05 19:08:24.431287,True
+STR0041,Surat Store 41,Surat,Gujarat,West,India,Online Fulfillment,2022-12-25,EMP0041,2026-07-05 19:08:24.431290,True
+STR0042,Ahmedabad Store 42,Ahmedabad,Gujarat,West,India,Online Fulfillment,2023-02-28,EMP0042,2026-07-05 19:08:24.431294,True
+STR0043,Patna Store 43,Patna,Bihar,East,India,Warehouse,2020-03-18,EMP0043,2026-07-05 19:08:24.431299,True
+STR0044,Hyderabad Store 44,Hyderabad,Telangana,South,India,High Street,2017-08-25,EMP0044,2026-07-05 19:08:24.431302,True
+STR0045,Surat Store 45,Surat,Gujarat,West,India,Warehouse,2021-06-28,EMP0045,2026-07-05 19:08:24.431306,True
+STR0046,Bengaluru Store 46,Bengaluru,Karnataka,South,India,Online Fulfillment,2016-08-20,EMP0046,2026-07-05 19:08:24.431309,True
+STR0047,Pune Store 47,Pune,Maharashtra,West,India,High Street,2020-04-02,EMP0047,2026-07-05 19:08:24.431313,True
+STR0048,Kochi Store 48,Kochi,Kerala,South,India,Mall,2023-09-27,EMP0048,2026-07-05 19:08:24.431316,True
+STR0049,Mumbai Store 49,Mumbai,Maharashtra,West,India,Online Fulfillment,2019-06-10,EMP0049,2026-07-05 19:08:24.431319,True
+STR0050,Kochi Store 50,Kochi,Kerala,South,India,Online Fulfillment,2020-12-09,EMP0050,2026-07-05 19:08:24.431322,True
+STR0051,Surat Store 51,Surat,Gujarat,West,India,High Street,2024-09-11,EMP0051,2026-07-05 19:08:24.431326,True
+STR0052,Pune Store 52,Pune,Maharashtra,West,India,Mall,2017-03-28,EMP0052,2026-07-05 19:08:24.431329,True
+STR0053,Bengaluru Store 53,Bengaluru,Karnataka,South,India,Warehouse,2015-05-15,EMP0053,2026-07-05 19:08:24.431334,True
+STR0054,Ahmedabad Store 54,Ahmedabad,Gujarat,West,India,Online Fulfillment,2019-05-24,EMP0054,2026-07-05 19:08:24.431338,True
+STR0055,Kochi Store 55,Kochi,Kerala,South,India,High Street,2016-04-11,EMP0055,2026-07-05 19:08:24.431342,True
+STR0056,Hyderabad Store 56,Hyderabad,Telangana,South,India,Warehouse,2019-07-20,EMP0056,2026-07-05 19:08:24.431345,True
+STR0057,Jaipur Store 57,Jaipur,Rajasthan,North,India,Mall,2022-09-10,EMP0057,2026-07-05 19:08:24.431348,True
+STR0058,Jaipur Store 58,Jaipur,Rajasthan,North,India,Mall,2020-07-12,EMP0058,2026-07-05 19:08:24.431352,True
+STR0059,Hyderabad Store 59,Hyderabad,Telangana,South,India,Online Fulfillment,2015-08-01,EMP0059,2026-07-05 19:08:24.431355,True
+STR0060,Patna Store 60,Patna,Bihar,East,India,Online Fulfillment,2019-06-09,EMP0060,2026-07-05 19:08:24.431359,True
+STR0061,Chennai Store 61,Chennai,Tamil Nadu,South,India,Online Fulfillment,2017-04-13,EMP0061,2026-07-05 19:08:24.431368,True
+STR0062,Hyderabad Store 62,Hyderabad,Telangana,South,India,High Street,2019-02-20,EMP0062,2026-07-05 19:08:24.431371,True
+STR0063,Pune Store 63,Pune,Maharashtra,West,India,High Street,2023-04-02,EMP0063,2026-07-05 19:08:24.431377,True
+STR0064,Guwahati Store 64,Guwahati,Assam,East,India,Mall,2016-03-16,EMP0064,2026-07-05 19:08:24.431380,True
+STR0065,Chennai Store 65,Chennai,Tamil Nadu,South,India,High Street,2021-02-27,EMP0065,2026-07-05 19:08:24.431384,True
+STR0066,Ahmedabad Store 66,Ahmedabad,Gujarat,West,India,Online Fulfillment,2019-04-23,EMP0066,2026-07-05 19:08:24.431388,True
+STR0067,Ahmedabad Store 67,Ahmedabad,Gujarat,West,India,High Street,2021-01-27,EMP0067,2026-07-05 19:08:24.431392,True
+STR0068,Chandigarh Store 68,Chandigarh,Punjab,North,India,High Street,2023-03-18,EMP0068,2026-07-05 19:08:24.431396,True
+STR0069,Chandigarh Store 69,Chandigarh,Punjab,North,India,Online Fulfillment,2023-08-27,EMP0069,2026-07-05 19:08:24.431400,True
+STR0070,Kolkata Store 70,Kolkata,West Bengal,East,India,Mall,2023-09-08,EMP0070,2026-07-05 19:08:24.431403,True
+STR0071,Bhubaneswar Store 71,Bhubaneswar,Odisha,East,India,Warehouse,2022-03-11,EMP0071,2026-07-05 19:08:24.431407,True
+STR0072,Kochi Store 72,Kochi,Kerala,South,India,Mall,2022-09-25,EMP0072,2026-07-05 19:08:24.431410,True
+STR0073,Chandigarh Store 73,Chandigarh,Punjab,North,India,Mall,2022-04-01,EMP0073,2026-07-05 19:08:24.431415,True
+STR0074,Chennai Store 74,Chennai,Tamil Nadu,South,India,Warehouse,2021-11-02,EMP0074,2026-07-05 19:08:24.431419,True
+STR0075,Lucknow Store 75,Lucknow,Uttar Pradesh,North,India,Online Fulfillment,2023-02-10,EMP0075,2026-07-05 19:08:24.431422,True
+STR0076,Delhi Store 76,Delhi,Delhi,North,India,High Street,2020-08-08,EMP0076,2026-07-05 19:08:24.431426,True
+STR0077,Patna Store 77,Patna,Bihar,East,India,Online Fulfillment,2017-04-22,EMP0077,2026-07-05 19:08:24.431429,True
+STR0078,Bengaluru Store 78,Bengaluru,Karnataka,South,India,High Street,2023-07-01,EMP0078,2026-07-05 19:08:24.431433,True
+STR0079,Chennai Store 79,Chennai,Tamil Nadu,South,India,Online Fulfillment,2017-06-04,EMP0079,2026-07-05 19:08:24.431437,True
+STR0080,Guwahati Store 80,Guwahati,Assam,East,India,Warehouse,2024-04-15,EMP0080,2026-07-05 19:08:24.431440,True
+STR0081,Kolkata Store 81,Kolkata,West Bengal,East,India,High Street,2020-03-11,EMP0081,2026-07-05 19:08:24.431445,True
+STR0082,Bengaluru Store 82,Bengaluru,Karnataka,South,India,Warehouse,2023-09-01,EMP0082,2026-07-05 19:08:24.431448,True
+STR0083,Delhi Store 83,Delhi,Delhi,North,India,High Street,2016-12-02,EMP0083,2026-07-05 19:08:24.431453,True
+STR0084,Chandigarh Store 84,Chandigarh,Punjab,North,India,Online Fulfillment,2017-03-12,EMP0084,2026-07-05 19:08:24.431456,True
+STR0085,Ahmedabad Store 85,Ahmedabad,Gujarat,West,India,Mall,2015-12-14,EMP0085,2026-07-05 19:08:24.431460,True
+STR0086,Mumbai Store 86,Mumbai,Maharashtra,West,India,Mall,2023-04-03,EMP0086,2026-07-05 19:08:24.431464,True
+STR0087,Guwahati Store 87,Guwahati,Assam,East,India,Online Fulfillment,2016-11-21,EMP0087,2026-07-05 19:08:24.431467,True
+STR0088,Patna Store 88,Patna,Bihar,East,India,High Street,2020-12-09,EMP0088,2026-07-05 19:08:24.431474,True
+STR0089,Chandigarh Store 89,Chandigarh,Punjab,North,India,High Street,2017-01-03,EMP0089,2026-07-05 19:08:24.431479,True
+STR0090,Mumbai Store 90,Mumbai,Maharashtra,West,India,Mall,2017-04-17,EMP0090,2026-07-05 19:08:24.431483,True
+STR0091,Bengaluru Store 91,Bengaluru,Karnataka,South,India,Online Fulfillment,2015-12-25,EMP0091,2026-07-05 19:08:24.431486,True
+STR0092,Jaipur Store 92,Jaipur,Rajasthan,North,India,Warehouse,2017-08-14,EMP0092,2026-07-05 19:08:24.431490,True
+STR0093,Patna Store 93,Patna,Bihar,East,India,Online Fulfillment,2018-04-15,EMP0093,2026-07-05 19:08:24.431495,True
+STR0094,Jaipur Store 94,Jaipur,Rajasthan,North,India,Mall,2024-05-23,EMP0094,2026-07-05 19:08:24.431500,True
+STR0095,Guwahati Store 95,Guwahati,Assam,East,India,Mall,2022-01-01,EMP0095,2026-07-05 19:08:24.431509,True
+STR0096,Kochi Store 96,Kochi,Kerala,South,India,High Street,2021-08-23,EMP0096,2026-07-05 19:08:24.431513,True
+STR0097,Pune Store 97,Pune,Maharashtra,West,India,High Street,2022-10-27,EMP0097,2026-07-05 19:08:24.431516,True
+STR0098,Guwahati Store 98,Guwahati,Assam,East,India,High Street,2021-08-13,EMP0098,2026-07-05 19:08:24.431520,True
+STR0099,Delhi Store 99,Delhi,Delhi,North,India,High Street,2022-09-12,EMP0099,2026-07-05 19:08:24.431524,True
+STR0100,Kochi Store 100,Kochi,Kerala,South,India,High Street,2019-02-10,EMP0100,2026-07-05 19:08:24.431527,True
