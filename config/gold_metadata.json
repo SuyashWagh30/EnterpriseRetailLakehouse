@@ -1,1 +1,101 @@
+{
+  "customers": {
+    "gold_table": "dim_customers",
+    "primary_key": "customer_id",
+    "columns": [
+      "customer_id",
+      "first_name",
+      "last_name",
+      "email",
+      "phone",
+      "city",
+      "state",
+      "country",
+      "loyalty_tier",
+      "signup_date",
+      "is_active"
+    ]
+  },
 
+  "products": {
+    "gold_table": "dim_products",
+    "primary_key": "product_id",
+    "columns": [
+      "product_id",
+      "product_name",
+      "category",
+      "subcategory",
+      "brand",
+      "unit_price"
+    ]
+  },
+
+  "stores": {
+    "gold_table": "dim_stores",
+    "primary_key": "store_id",
+    "columns": [
+      "store_id",
+      "store_name",
+      "city",
+      "state",
+      "country"
+    ]
+  },
+
+  "employees": {
+    "gold_table": "dim_employees",
+    "primary_key": "employee_id",
+    "columns": [
+      "employee_id",
+      "employee_name",
+      "designation",
+      "store_id"
+    ]
+  },
+
+  "calendar": {
+    "gold_table": "dim_calendar",
+    "primary_key": "date_key",
+    "columns": [
+      "date_key",
+      "date",
+      "year",
+      "quarter",
+      "month",
+      "month_name",
+      "week",
+      "day",
+      "is_weekend"
+    ]
+  },
+
+  "sales": {
+    "gold_table": "fact_sales",
+    "primary_key": "invoice_id",
+    "columns": [
+      "invoice_id",
+      "customer_id",
+      "product_id",
+      "store_id",
+      "employee_id",
+      "date_key",
+      "quantity",
+      "unit_price",
+      "sales_amount",
+      "discount",
+      "tax"
+    ]
+  },
+
+  "inventory": {
+    "gold_table": "fact_inventory",
+    "primary_key": "inventory_id",
+    "columns": [
+      "inventory_id",
+      "product_id",
+      "store_id",
+      "stock_quantity",
+      "reorder_level"
+    ]
+  }
+}
